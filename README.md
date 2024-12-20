@@ -16,11 +16,11 @@ A simple calculator implementation in Ruby that supports addition, subtraction, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/string_calculator.git
+   git clone https://github.com/Nitish-coder-coder/string_calculator.git
    cd string_calculator
    bundle install
 
 # Running Tests
 To run the RSpec tests for the calculator, use the following command:
-
-- **bundle exec rspec --format documentation
+  ```bash
+  bundle exec rspec --format documentation
