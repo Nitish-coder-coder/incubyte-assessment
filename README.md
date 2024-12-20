@@ -16,7 +16,7 @@ A simple calculator implementation in Ruby that supports addition, subtraction, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nitish-coder-coder/string_calculator.git
+   git clone https://github.com/Nitish-coder-coder/incubyte-assessment.git
    cd string_calculator
    bundle install
 
